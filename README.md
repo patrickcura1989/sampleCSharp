@@ -1,4 +1,4 @@
-# Installation
+# Running the tests
 **Pre-requisites:**
 1. [Visual Studio](https://visualstudio.microsoft.com/downloads/)
 2. .NET Core
