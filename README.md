@@ -6,7 +6,8 @@
 **Steps:**
 1. Clone this project
 2. Open the project in Visual Studio
-3. Execute the tests from the Test Explorer Window
+3. Rebuild the whole project
+4. Execute the tests from the Test Explorer Window
 
 # Test Cases
 * Verify that a User can Click on JS Alert then click OK in the Alert 
